@@ -2,6 +2,6 @@
 
 - :bomb: boom
 - :monocle_face: **Nothing to write here**
-- /play secret
+- ☕ Minecraft Plugin Developer
 - 📫 How to reach me: **egementopcu0@gmail.com** or **Trossty#6490**
 - 🏁 Currently working on: **Epic Big Project**
