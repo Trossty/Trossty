@@ -3,5 +3,5 @@
 - :bomb: boom
 - :monocle_face: **Nothing to write here**
 - ☕ Minecraft Plugin Developer
-- 📫 How to reach me: **egementopcu0@gmail.com** or **Trossty#6490**
+- 📫 How to reach me: **egementopcu0@gmail.com** or **trossty** on discord
 - 🏁 Currently working on: **Epic Big Project**
